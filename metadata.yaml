@@ -1,4 +1,5 @@
 _repo: Lectures-on-Dramatic-Art-and-Literature_7148
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Black, John
@@ -6,6 +7,9 @@ contributor:
     deathdate: 1855
     gutenberg_agent_id: '4494'
     url: http://www.gutenberg.org/2009/agents/4494
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schlegel, August Wilhelm von
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2356
     wikipedia: http://en.wikipedia.org/wiki/August_Wilhelm_von_Schlegel
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7148#Lectures-on-Dramatic-Art-and-Literature
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
